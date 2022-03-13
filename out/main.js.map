@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"mBAAA,MCIMA,EAAMC,SAASC,cAAc,OACnCF,EAAIG,IDLJ,4BCMAH,EAAII,MAAQ,IACZJ,EAAIK,OAAS,IAEbJ,SAASK,eAAe,QAAQC,YAAYP,I","sources":["webpack://webpack-copy-plugin/./public/avatar.png","webpack://webpack-copy-plugin/./index.js"],"names":["img","document","createElement","src","width","height","getElementById","appendChild"],"sourceRoot":""}
